@@ -23,7 +23,7 @@ module.exports = {
 
           success: "#1CCA6A",
 
-          warning: "#915308",
+          warning: "#fcd34d",
 
           error: "#dc2626",
         },

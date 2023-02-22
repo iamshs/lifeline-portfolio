@@ -1,0 +1,15 @@
+.bgp{
+    background-image: url("../../assets/bg-po.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    
+}
+
+@media screen and (max-width:767px) {
+    .bgp{
+        height: 60vh;
+    }
+   
+}
