@@ -8,29 +8,26 @@ module.exports = {
   daisyui: {
     themes: [
       {
-        mytheme: {
-          primary: "#f7dc45",
+        myTheme: {
+          primary: "#f43f5e",
 
-          secondary: "#e198e2",
+          secondary: "#fca5a5",
 
-          accent: "#f98ea9",
+          accent: "#5eead4",
 
-          neutral: "#263740",
+          neutral: "#f5f5f4",
 
-          "base-100": "#F5F4F6",
+          "base-100": "#110E0E",
 
-          info: "#4EB1EF",
+          info: "#a78bfa",
 
-          success: "#44E4C7",
+          success: "#1CCA6A",
 
-          warning: "#F8C75D",
+          warning: "#915308",
 
-          error: "#FC6993",
+          error: "#dc2626",
         },
       },
-      {
-        dark : "dark"
-      }
     ],
   },
 };
